@@ -8,7 +8,7 @@ A comprehensive end-to-end data analysis project exploring e-commerce performanc
 
 Interactive reporting and KPI visualizations built using Power BI Desktop, DAX measures, and custom Figma dashboard canvas templates.
 
-![Power BI Dashboard Overview](Screenshots/E-commerce%20EDA%20Project%20Report.png)
+![Power BI Dashboard Overview](PowerBI/Screenshots/E-commerce%20EDA%20Project%20Report.png)
 
 ---
 
