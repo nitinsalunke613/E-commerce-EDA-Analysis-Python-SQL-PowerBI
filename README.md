@@ -34,7 +34,7 @@ Python scripts and notebooks utilizing **Pandas**, **NumPy**, **Matplotlib**, an
 
 Structured MySQL scripts handling table schema setup, data cleaning, transformations, and complex metric queries using SQL commands, views and stored procedures.
 
-![MySQL Query Analysis](screenshots/Ecom_Analysis_MySQL.png)
+![MySQL Query Analysis](MySQL/Screenshots/Ecom_Analysis_MySQL.png)
 
 ---
 
